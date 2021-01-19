@@ -1,1 +1,1 @@
-# group_photo app ready UI by react native.
+# group photo app ready UI by react native.
